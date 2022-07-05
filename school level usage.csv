@@ -1,0 +1,39 @@
+,,num_lesson,num_lesson,num_graded_writing,num_graded_writing,student_id,student_id,avg_lsn,avg_lsn,avg_graded,avg_graded
+school_year,,2020-2021,2021-2022,2020-2021,2021-2022,2020-2021,2021-2022,2020-2021,2021-2022,2020-2021,2021-2022
+lesson_type,school_name,,,,,,,,,,
+Benchmark - Baseline Writing,Sacred Heart School,,81.0,,0.0,,81.0,,1.0,,0.0
+Benchmark - Baseline Writing,Saint Alphonsus Liguori School,,35.0,,0.0,,35.0,,1.0,,0.0
+Benchmark - Baseline Writing,St. Albert the Great Catholic School,16.0,51.0,0.0,0.0,16.0,51.0,1.0,1.0,0.0,0.0
+Benchmark - Baseline Writing,St. Ann School,,55.0,,0.0,,53.0,,1.0377358490566038,,0.0
+Benchmark - Baseline Writing,St. John Berchmans School,,41.0,,0.0,,41.0,,1.0,,0.0
+Benchmark - Baseline Writing,St. John Brebeuf School,73.0,73.0,0.0,0.0,73.0,73.0,1.0,1.0,0.0,0.0
+Benchmark - Baseline Writing,St. William School,24.0,,0.0,,24.0,,1.0,,0.0,
+Benchmark - End-of-Year,Sacred Heart School,,86.0,,0.0,,86.0,,1.0,,0.0
+Benchmark - Leveling,Sacred Heart School,,51.0,,0.0,,17.0,,3.0,,0.0
+Benchmark - Leveling,St Gabriel School,63.0,,0.0,,21.0,,3.0,,0.0,
+Benchmark - Leveling,St. Albert the Great Catholic School,16.0,208.0,0.0,0.0,16.0,51.0,1.0,4.078431372549019,0.0,0.0
+Benchmark - Leveling,St. John Brebeuf School,189.0,216.0,0.0,0.0,43.0,72.0,4.395348837209302,3.0,0.0,0.0
+Benchmark - Leveling,St. William School,203.0,168.0,0.0,0.0,68.0,56.0,2.985294117647059,3.0,0.0,0.0
+Benchmark - Mid-Year,Sacred Heart School,,85.0,,0.0,,85.0,,1.0,,0.0
+Benchmark - Mid-Year,St Gabriel School,25.0,,0.0,,25.0,,1.0,,0.0,
+Benchmark - Mid-Year,St. John Brebeuf School,,22.0,,0.0,,22.0,,1.0,,0.0
+Benchmark - Mid-Year,St. William School,21.0,,0.0,,21.0,,1.0,,0.0,
+Reading Practice,Sacred Heart School,,51.0,,0.0,,17.0,,3.0,,0.0
+Reading Practice,St Anastasia School,,85.0,,0.0,,85.0,,1.0,,0.0
+Reading Practice,St. Albert the Great Catholic School,16.0,,0.0,,16.0,,1.0,,0.0,
+Reading Practice,St. John Brebeuf School,136.0,141.0,0.0,0.0,70.0,71.0,1.9428571428571428,1.9859154929577465,0.0,0.0
+Reading Practice,St. William School,657.0,369.0,0.0,0.0,83.0,71.0,7.9156626506024095,5.197183098591549,0.0,0.0
+Writing Lesson,Most Holy Redeemer School,39.0,,0.0,,39.0,,1.0,,0.0,
+Writing Lesson,"SS Faith, Hope, and Charity Catholic School",55.0,,0.0,,43.0,,1.2790697674418605,,0.0,
+Writing Lesson,Sacred Heart School,98.0,178.0,5.0,0.0,98.0,86.0,1.0,2.0697674418604652,0.05102040816326531,0.0
+Writing Lesson,Saint Alphonsus Liguori School,662.0,440.0,0.0,243.0,42.0,62.0,15.761904761904763,7.096774193548387,0.0,3.9193548387096775
+Writing Lesson,St Anastasia School,,680.0,,434.0,,85.0,,8.0,,5.105882352941176
+Writing Lesson,St Ann Grade School,11.0,,0.0,,11.0,,1.0,,0.0,
+Writing Lesson,St Gabriel School,47.0,,0.0,,25.0,,1.88,,0.0,
+Writing Lesson,St Thomas the Apostle School,,14.0,,0.0,,14.0,,1.0,,0.0
+Writing Lesson,St. Albert the Great Catholic School,52.0,535.0,11.0,452.0,36.0,51.0,1.4444444444444444,10.490196078431373,0.3055555555555556,8.862745098039216
+Writing Lesson,St. Ann School,126.0,20.0,3.0,0.0,53.0,20.0,2.3773584905660377,1.0,0.05660377358490566,0.0
+Writing Lesson,St. Clement School,29.0,,0.0,,29.0,,1.0,,0.0,
+Writing Lesson,St. Edward School,565.0,581.0,507.0,229.0,101.0,124.0,5.594059405940594,4.685483870967742,5.01980198019802,1.846774193548387
+Writing Lesson,St. John Berchmans School,,83.0,,40.0,,42.0,,1.9761904761904763,,0.9523809523809523
+Writing Lesson,St. John Brebeuf School,219.0,269.0,219.0,269.0,71.0,74.0,3.084507042253521,3.635135135135135,3.084507042253521,3.635135135135135
