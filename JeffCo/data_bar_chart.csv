@@ -1,0 +1,17 @@
+Subtype,CERCA,Not Yet Proficient,Proficient,Consistent Mastery,,Subtype,Not Yet Proficient,Proficient,Consistent Mastery
+BOY,         ClaimCounter,-65.14%,33.07%,1.79%,,BOY,-48.92%,47.18%,3.91%
+BOY,              Evidence,-67.73%,31.27%,1.00%,,EOY,-34.77%,56.76%,8.47%
+BOY,               Reasoning,-54.09%,43.91%,2.00%,,,48.92%,,
+BOY,              Audience,-29.28%,62.35%,8.37%,,,34.77%,,
+BOY,            Conventions,-17.40%,71.40%,11.20%,,,,,
+BOY,                Organization,-67.73%,31.67%,0.60%,,,,,
+BOY,                 Reasons,-41.04%,56.57%,2.39%,,,,,
+,,-48.92%,47.18%,3.91%,,,,,
+EOY,         ClaimCounter,-43.33%,51.85%,4.81%,,,,,
+EOY,              Evidence,-57.04%,40.93%,2.04%,,,,,
+EOY,               Reasoning,-38.40%,54.17%,7.42%,,,,,
+EOY,              Audience,-19.07%,63.89%,17.04%,,,,,
+EOY,            Conventions,-11.11%,70.19%,18.70%,,,,,
+EOY,                Organization,-44.44%,51.48%,4.07%,,,,,
+EOY,                 Reasons,-30.00%,64.81%,5.19%,,,,,
+,,-34.77%,56.76%,8.47%,,,,,
