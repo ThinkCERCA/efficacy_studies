@@ -1,0 +1,27 @@
+Enrolled Grade,Lesson Type,Word Count,,,,,,,,,,
+7,Benchmark - Baseline Writing,118,,,,,,,,,,
+7,Benchmark - Mid-Year,105,,,,,,,,,,
+8,Benchmark - Baseline Writing,66,,,,,,,,,,
+8,Benchmark - End-of-Year,78,,,,,,,,,,
+8,Benchmark - Mid-Year,130,,,,,,,,,,
+9,Benchmark - Baseline Writing,51,,,,,,,,,,
+9,Benchmark - End-of-Year,119,,,,,,,,,,
+9,Benchmark - Mid-Year,100,,,,,,,,,,
+10,Benchmark - Baseline Writing,61,,,,,,,,,,
+10,Benchmark - End-of-Year,95,,,,,,,,,,
+10,Benchmark - Mid-Year,110,,,,,,,,,,
+11,Benchmark - Baseline Writing,72,,,,,,,,,,
+11,Benchmark - End-of-Year,134,,,,,,,,,,
+11,Benchmark - Mid-Year,144,,,,,,,,,,
+12,Benchmark - Baseline Writing,72,,,,,,,,,,
+12,Benchmark - End-of-Year,118,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,Sum of Word Count,Column Labels,,,,,
+,,,,,,Row Labels,Benchmark - Baseline Writing,Benchmark - End-of-Year,Benchmark - Mid-Year,,Grand Total,
+,,,,,,7,118,,105,,223,
+,,,,,,8,66,78,130,,274.2571429,18%
+,,,,,,9,51,119,100,,269.7932175,135%
+,,,,,,10,61,95,110,,266.4102683,55%
+,,,,,,11,72,134,144,,350.3333333,85%
+,,,,,,12,72,118,,,190.2,63%
+,,,,,,Grand Total,440.481687,543.7666667,589.7456083,,1573.993962,
